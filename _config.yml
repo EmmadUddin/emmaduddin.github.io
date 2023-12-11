@@ -1,6 +1,6 @@
 title: Emmad Uddin # your name (or website title) here
 #![Emmad Uddin](/images/Emmad_pic-modified%20(1).png){: width="80" height="80"}
-logo: !(/images/Emmad_pic-modified%20(1).png){: width="80" height="80"} #"/images/Emmad_pic-modified (1).png?raw=true" # your photo (or logo) here
+logo: (/images/Emmad_pic-modified%20(1).png){: width="80" height="80"} #"/images/Emmad_pic-modified (1).png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   <h3>Certified Data Analyst</h3> 
