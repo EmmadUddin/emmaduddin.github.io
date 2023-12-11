@@ -1,5 +1,8 @@
 title: Emmad Uddin # your name (or website title) here
-logo: "/images/Emmad_pic-modified.png?raw=true" # your photo (or logo) here
+logo: 
+  path:"/images/Emmad_pic-modified.png?raw=true" # your photo (or logo) here
+  width:150
+  height:150
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
