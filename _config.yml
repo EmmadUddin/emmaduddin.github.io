@@ -7,6 +7,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/emmaduddin/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/emmaduddin/" target="_blank" rel="noopener noreferrer">
+    <img src="/images/linkedin.png" alt="LinkedIn Profile">
+  </a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
