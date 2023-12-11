@@ -1,11 +1,12 @@
 title: Emmad Uddin # your name (or website title) here
 logo: "/images/Emmad_pic-modified (1).png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <br><br>
+  <h3>Certified Data Analyst</h3> 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/emmaduddin/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
