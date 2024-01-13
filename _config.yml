@@ -2,12 +2,12 @@ title: Emmad Uddin # your name (or website title) here
 logo: "/images/Emmad_pic_final.png" #"/images/Emmad_pic-modified (1).png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  <h2>Certified BI & Data Analyst</h2> 
+  <h2 style="text:#ffffff">Certified BI & Data Analyst</h2> 
   <br><br>
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/emmaduddin/" target="_blank" rel="noopener noreferrer">
-    <img src="/images/linkedin.png" alt="LinkedIn Profile" width="30" height="30" style="display: inline-block; margin-right: 10px; color:#ffffff">
+    <img src="/images/linkedin.png" alt="LinkedIn Profile" width="30" height="30" style="display: inline-block; margin-right: 10px; filter: invert(1);">
   </a>
   <a href="https://github.com/EmmadUddin" target="_blank" rel="noopener noreferrer">
     <img src="/images/github.png" alt="Github Profile" width="30" height="30" style="display: inline-block;filter: invert(1);">
