@@ -1,16 +1,13 @@
 title: Emmad Uddin # your name (or website title) here
 logo: "/images/Emmad_logo.png" #"/images/Emmad_pic-modified (1).png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
-  <h2 style="text:#ffffff">Certified BI & Data Analyst</h2> 
-  <br><br>
-  Second description 
+  <h2 style="color:#ffffff">Certified BI & Data Analyst</h2> 
   <br><br>
   <a href="https://www.linkedin.com/in/emmaduddin/" target="_blank" rel="noopener noreferrer">
     <img src="/images/linkedin.png" alt="LinkedIn Profile" width="30" height="30" style="display: inline-block; margin-right: 10px; filter: invert(1);">
   </a>
   <a href="https://github.com/EmmadUddin" target="_blank" rel="noopener noreferrer">
-    <img src="/images/github.png" alt="Github Profile" width="30" height="30" style="display: inline-block;filter: invert(1);">
+    <img src="/images/github.png" alt="Github Profile" width="30" height="30" style="display: inline-block;filter: grayscale(100%) brightness(200%);">
   </a>
   
 remote_theme: pages-themes/minimal@v0.2.0
