@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
     <img src="/images/linkedin.png" alt="LinkedIn Profile" width="30" height="30" style="display: inline-block; margin-right: 10px; color:#ffffff">
   </a>
   <a href="https://github.com/EmmadUddin" target="_blank" rel="noopener noreferrer">
-    <img src="/images/github.png" alt="Github Profile" width="30" height="30" style="display: inline-block;color:#ffffff">
+    <img src="/images/github.png" alt="Github Profile" width="30" height="30" style="display: inline-block;filter: invert(1);">
   </a>
   
 remote_theme: pages-themes/minimal@v0.2.0
