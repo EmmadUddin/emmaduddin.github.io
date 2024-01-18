@@ -15,7 +15,7 @@
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    {% seo %}
-   <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+   <!--<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">-->
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
    <![endif]-->
@@ -37,12 +37,6 @@
          width: 30%;
          position: fixed;
       }
-      header{
-         height:80vh;
-         left: 0;
-         top: 0;
-      }
-
       section {
          flex:1;
          background: linear-gradient(109.6deg, rgb(200, 51, 70) 11.2%, rgb(69, 179,224) 100.1%);
@@ -50,6 +44,13 @@
          margin-left: 20%;
          min-height: 80vh;
       }
+      header{
+         height:80vh;
+         left: 0;
+         top: 0;
+      }
+
+      
       footer{
          bottom:0;
          height:20vh;
