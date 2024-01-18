@@ -30,6 +30,17 @@
          flex-direction: row;
          height: 100vh;
       }
+      header{
+         height:80vh;
+         left: 0;
+         top: 0;
+      }
+
+      
+      footer{
+         bottom:0;
+         height:20vh;
+      }
       header, footer {
          text-align: center;
          color: #ffffff;
@@ -44,17 +55,7 @@
          margin-left: 20%;
          min-height: 80vh;
       }
-      header{
-         height:80vh;
-         left: 0;
-         top: 0;
-      }
-
       
-      footer{
-         bottom:0;
-         height:20vh;
-      }
     
       @media (max-width: 768px) {
          .wrapper {
@@ -78,7 +79,7 @@
    </style>
 </head>
 <body style="padding: 0%; background-color: #ffffff;">
-   <div class="wrapper" style="margin: 0px;  width:90%; height: 95%;" >
+   <div class="wrapper" style="margin: 0px;  " >
       <header style="padding-top: 50px; text-align: center; width: 35%;height: 95%; background: linear-gradient(109.6deg, rgb(102, 51, 153) 11.2%, rgb(69, 179, 224) 100.1%);">
          {% if site.logo %}
          <img src="{{site.logo | relative_url}}" alt="Logo" />
