@@ -58,6 +58,7 @@
          margin-left: 30%;
          height: 100vh;
          overflow:auto ;
+         padding: 10vh;
          
       }
       
@@ -87,7 +88,7 @@
    <div class="wrapper" style="margin: 0px;  " >
       <header>
          {% if site.logo %}
-         <img src="{{site.logo | relative_url}}" alt="Logo" />
+         <img src="{{site.logo | relative_url}}" alt="Logo" style="border-color: #ffffff;" />
          {% endif %}
          <br>
          <h1 style=" text-align: center; font-family: 'Lucida Console', monospace;"><a style="color: #ffffff; " href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
