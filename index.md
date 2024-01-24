@@ -2,11 +2,11 @@
 
 <p style="font-family: Verdana, Helvetica, sans-serif; font-size:15px; text-align:justify;">I am also a Certified Data Analyst with advanced skills in Python, SQL, Tableau, statistics, and machine learning. My expertise in these areas allows me to effectively manipulate and analyze data, providing valuable insights for informed decision-making. Additionally, I am a Certified Data Visualization expert, proficient in the latest modern self-service business intelligence tools, including Tableau, Power BI, Qlik Sense, and SQL. This enables me to create impactful visualizations that enhance data comprehension and drive actionable results.</p>
 
-<p style="font-family: Verdana, Helvetica, sans-serif; font-size:15px; text-align:justify;">By combining my mechanical engineering knowledge with my data science skills, I can deliver comprehensive solutions. If you are looking for a dynamic and forward-thinking mechanical engineer with a passion for innovation and expertise in data analysis and visualization, I would welcome the opportunity to connect with you on LinkedIn.</p>
+<p style="font-family: Verdana, Helvetica, sans-serif; font-size:15px; text-align:justify;">By combining my mechanical engineering knowledge with my data science skills, I can deliver comprehensive solutions. If you are looking for a dynamic and forward-thinking mechanical engineer with a passion for innovation and expertise in data analysis and visualization, I would welcome the opportunity to connect with you.</p>
+
 ---
 
-### Category Name 1 
-
+<h2 style="font-family: Verdana, Helvetica, sans-serif;">Project Gallery</h2>
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
