@@ -6,7 +6,7 @@
 
 ---
 
-<h2 style="font-family: Verdana, Helvetica, sans-serif;">Project Gallery</h2>
+<h2 style="font-family: Verdana, sans-serif;">Project Gallery</h2>
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
