@@ -24,6 +24,7 @@
          box-sizing: border-box;
          margin: 0;
          padding: 0;
+         font-family: 'Commissioner';
       }
       .wrapper {
          margin: 0px;
@@ -90,7 +91,7 @@
          <img src="{{site.logo | relative_url}}" alt="Logo" style="border-color: #ffffff;" />
          {% endif %}
          <br>
-         <h1 style=" text-align: center; font-family: 'Lucida Console', monospace;"><a style="color: #ffffff; " href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+         <h1 style=" text-align: center; "><a style="color: #ffffff; " href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
          <p style=" text-align: center;">{{ site.description | default: site.github.project_tagline }}</p>
          <!-- {% if site.github.is_project_page %}
         
@@ -115,7 +116,7 @@
          {% if site.github.is_project_page %}
          <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
          {% endif %}
-         <p style="font-family:Times New Roman;text-align: center; color: #ffffff;"><medium> &copy; Emmad Uddin </medium></p>
+         <p style="text-align: center; color: #ffffff;"><medium> &copy; Emmad Uddin </medium></p>
          
          <!--<p><medium>Hosted on GitHub Pages &copy; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>-->
       </footer>
