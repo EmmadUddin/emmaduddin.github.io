@@ -9,6 +9,8 @@
 ---
 
 <h2 style="font-family: font-family: Commissioner">Project Gallery</h2>
+
+<h3 style="font-family: font-family: Commissioner"> HR Dashboard | Atliq HR | Code Basics</h3>
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
