@@ -12,7 +12,7 @@
 
 <h3 style="font-family: font-family: Commissioner"> HR Dashboard | Atliq HR | Code Basics</h3>
 [Project 1 Title](/sample_page)
-<img src="images/Atliq.jpeg?raw=true" height="150vh"/>
+<img src="images/Atliq.jpeg?raw=true" height="400vh"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
